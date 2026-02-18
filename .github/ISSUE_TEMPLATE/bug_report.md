@@ -1,9 +1,9 @@
 ---
 name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+about: Create a bug report to help us improve
+title: '[BUG] Description Here'
+labels: 'bug'
+assignees: 'wowstar2504'
 
 ---
 
